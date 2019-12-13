@@ -1,0 +1,1 @@
+INSERT INTO sql_queries (projects, 20, users, 20, pledges 30);
